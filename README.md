@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Kaio Morais  
 
-<!--
-**KaioMorais41/KaioMorais41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Em transição de carreira de **Gestor Comercial** para **Desenvolvedor Front-end**.  
+💻 Experiência prática com **HTML, CSS e JavaScript**, criando interfaces de usuário intuitivas e responsivas.  
+🚀 Apaixonado por tecnologia, resolução de problemas e aprendizado contínuo.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim  
+- 👨‍💼 5 anos de experiência como Gestor Comercial, desenvolvendo habilidades de **resolução de problemas** e **atenção aos detalhes**  
+- 🌱 Atualmente me dedicando ao **Desenvolvimento Web**  
+- 🎯 Em busca da minha **primeira oportunidade como programador**  
+- ⚡ Curiosidade: adoro aprender novas tecnologias e transformar ideias em projetos reais  
+
+---
+
+## 🛠️ Tecnologias & Ferramentas  
+- **Linguagens:** HTML, CSS, JavaScript  
+- **Ferramentas:** Git, GitHub, VS Code, Figma  
+- **Aprendendo:** Node.js | React  
+
+---
+
+## 📌 Projetos em destaque  
+- 🔗 [Meu GitHub](https://github.com/KaioMorais41) (confira todos os projetos publicados)  
+
+---
+
+## 🌐 Conecte-se comigo  
+- 💼 [LinkedIn](https://www.linkedin.com/in/kaio-morais-araujo/)  
+- 📧 E-mail: **kaiomorais2903@gmail.com**
+
+---
+
+✨ *Sempre aberto a aprender, colaborar e crescer na área de tecnologia!*
